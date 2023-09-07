@@ -1,6 +1,7 @@
 # QA-comprehensive-training
 Currently, I'm enrolled in a 6-month quality assurance course covering the ISTQB certification concepts, quality assurance, and software development lifecycle. As part of this training, I am learning about defect management, API testing using Postman, and automation testing with Cypress, Selenium, and Appium. With this comprehensive training, I will be able to build a successful career in software testing and automation.
-
+### Outline of the course: 
+[QA training plan] (https://drive.google.com/file/d/1Bo2FwTEmI22wjJzedoS3yVqGo5ntfXer/view?usp=sharing)
 ## Tasks in the training course: 
 ## Manual part:
 ### Task 1:
