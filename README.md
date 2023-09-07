@@ -2,6 +2,7 @@
 Currently, I'm enrolled in a 6-month quality assurance course covering the ISTQB certification concepts, quality assurance, and software development lifecycle. As part of this training, I am learning about defect management, API testing using Postman, and automation testing with Cypress, Selenium, and Appium. With this comprehensive training, I will be able to build a successful career in software testing and automation.
 
 ## Tasks in the training course: 
+## Manual part:
 ### Task 1:
 * Prepare Test Scenarios and test cases for the Login page on this website.(https://b2b-sustlabs.firebaseapp.com/#/login)
   Use the Excel sheet to create a table as we discussed in the Test Design phase of the Test Process.
@@ -30,6 +31,9 @@ Write the test cases as a guest or registered user for subscription functionalit
 and the details in this file [end-to-end testing](https://drive.google.com/file/d/1rH58R1E_Vr60WdhHzX-bEKULEXOrkMbi/view?usp=sharing)
 * The document of this task: [ Test cases](https://docs.google.com/spreadsheets/d/1oFnlU7qoskPtp4WZIlmnxVUYjMMnjgJs/edit?usp=sharing&ouid=106017829505047848790&rtpof=true&sd=true)
 
-  ### task 5 
+## Postman part:
+## Cypress part:
+## Selenium part:
+## Appium part: 
 
 
