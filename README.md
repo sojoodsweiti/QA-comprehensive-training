@@ -5,7 +5,8 @@ Currently, I'm enrolled in a 6-month quality assurance course covering the ISTQB
 ## Tasks in the training course: 
 ## Manual part:
 ### Task 1:
-* Prepare Test Scenarios and test cases for the Login page on this website.(https://b2b-sustlabs.firebaseapp.com/#/login)
+* Prepare Test Scenarios and test cases for the Login page on this website.
+  (https://b2b-sustlabs.firebaseapp.com/#/login)
   Use the Excel sheet to create a table as we discussed in the Test Design phase of the Test Process.
 * Test scenarios and cases for the login page:[ Test cases](https://docs.google.com/spreadsheets/d/1yPxvWRAyshBvpHwELeW4r_IgvT9p8zJa/edit?usp=sharing&ouid=106017829505047848790&rtpof=true&sd=true)
 
