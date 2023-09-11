@@ -4,6 +4,7 @@ Currently, I'm enrolled in a 6-month quality assurance course covering the ISTQB
 * [QA Training Plan](https://drive.google.com/file/d/1Bo2FwTEmI22wjJzedoS3yVqGo5ntfXer/view?usp=sharing)
 ## Tasks in the training course: 
 ## Manual part:
+* The document of this part: [Manual part summary ](https://drive.google.com/file/d/1_T29KG8_9pldwdH5irDqgwJfu7Ka28md/view?usp=sharing)
 ### Task 1:
 * Prepare Test Scenarios and test cases for the Login page on this website.
   (https://b2b-sustlabs.firebaseapp.com/#/login)
